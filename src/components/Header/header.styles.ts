@@ -8,7 +8,8 @@ export const HeaderContainer = styled.header`
   padding: 16px; 
   background-color: #f8f9fa;
   border-bottom: 1px solid #ddd;
-
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  
   @media (max-width: 600px) {
     flex-direction: column; 
     align-items: flex-start; 
