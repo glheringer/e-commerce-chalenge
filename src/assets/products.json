@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "name": "Vestido 1",
+            "listPrice": 243.90,
+            "price": 225.90,
+            "image": "https://www.lancaperfume.com.br/arquivos/ids/459128-570-814/"
+
+        },
+        {
+            "name": "Vestido 2",
+            "listPrice": 243.90,
+            "price": 243.90, 
+            "image": "https://lojalancaperfume.vteximg.com.br/arquivos/ids/499130-570-814/"
+        },
+        {
+            "name": "Vestido 3",
+            "listPrice": 243.90,
+            "price": 210.00,
+            "image": "https://lojalancaperfume.vtexassets.com/arquivos/ids/513039-570-814/"
+        },
+        {
+            "name": "Vestido 4",
+            "listPrice": 243.90,
+            "price": 225.90,
+            "image": "https://lojalancaperfume.vtexassets.com/arquivos/ids/459203-570-814/"
+        },
+        {
+            "name": "Vestido 5",
+            "listPrice": 243.90,
+            "price": 233.90,  
+            "image": "https://www.lancaperfume.com.br/arquivos/ids/459158-570-814/"
+
+        },
+        {
+            "name": "Vestido 6",
+            "listPrice": 243.90,
+            "price": 200.00,
+            "image": "https://www.lancaperfume.com.br/arquivos/ids/459133-570-814/"
+        }
+    ],
+    "totals": {
+        "productsTotal": 676.70,  
+        "discount": 30.00,
+        "subtotal": 651.70  
+    }
+}
