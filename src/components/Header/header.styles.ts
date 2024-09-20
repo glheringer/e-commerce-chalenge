@@ -30,6 +30,9 @@ export const CartSection = styled.div`
   display: flex;
   align-items: center;
   background-color: #E2E2E2;
+  @media (max-width: 600px) {
+   margin-top: 8px;
+  }
 `;
 
 export const IconSection = styled.div`
