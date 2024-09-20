@@ -33,6 +33,13 @@
 
         },
         {
+            "name": "Vestido X",
+            "listPrice": 243.90,
+            "price": 233.90,  
+            "image": "https://www.lancaperfume.com.br/arquivos/ids/459158-570-814/"
+
+        },
+        {
             "name": "Vestido 6",
             "listPrice": 243.90,
             "price": 200.00,
