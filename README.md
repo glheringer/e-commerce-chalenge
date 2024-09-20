@@ -13,6 +13,8 @@ Este é um projeto de e-commerce desenvolvido em React, utilizando a biblioteca 
 
 ## 🚀 Como Executar o Projeto
 
+ - Acesse diretamente via : https://8c88-187-73-24-88.ngrok-free.app/
+
 1. **Clone o repositório:**
 
    ```bash

@@ -13,6 +13,7 @@ export const ButtonSection = styled.button`
   font-family: 'Heebo';
   font-weight: 400;
   font-size: 14px;
+  cursor: pointer; 
 
   @media (max-width: 768px) {
     width: 20vw;
