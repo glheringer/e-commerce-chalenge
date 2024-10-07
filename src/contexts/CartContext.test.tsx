@@ -27,10 +27,8 @@ describe('CartContext', () => {
           </CartProvider>
         );
       
-        // Aguarde a interação do usuário
         fireEvent.click(screen.getByText('Add Item'));
-      
-        // Aguarde por atualizações no DOM
+
         expect(await screen.findByText('Total Price: R$100.00')).toBeInTheDocument();
         expect(await screen.findByText('Item ID: 1, Price: R$100')).toBeInTheDocument();
       });
