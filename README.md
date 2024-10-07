@@ -15,6 +15,8 @@ Este é um projeto de e-commerce desenvolvido em React, utilizando a biblioteca 
 
  - Acesse diretamente via : https://f647-187-73-24-88.ngrok-free.app 
 
+(necessário me contactar, só funciona se eu estiver rodando localmente)
+
 **OU**
 
 1. **Clone o repositório:**
