@@ -1,5 +1,5 @@
 import React from 'react';
-import { useCart } from '../../contexts/CartContext';
+// import { useCart } from '../../contexts/CartContext';
 
 import { ImageContainer, PreviousPrice, ProductContainer, ProductImage, ProductItem } from './product.styles';
 import AddCartButton from '../AddCartButton/AddCartButton';
@@ -16,10 +16,10 @@ interface ProductsProps{
     products: Product[];
 }
 const ProductList = ({ products}:ProductsProps) => {
-    const { addToCart } = useCart(); 
+    // const { addToCart } = useCart(); 
 
     const handleAddToCart = (product: Product) => {
-        addToCart(product);
+        // addToCart(product);
     };
 
     return (

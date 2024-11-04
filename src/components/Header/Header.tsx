@@ -1,6 +1,6 @@
 // src/components/header.tsx
 import React from 'react';
-import { useCart } from '../../contexts/CartContext';
+// import { useCart } from '../../contexts/CartContext';
 
 import {
   HeaderContainer,
@@ -13,7 +13,7 @@ import {
 } from './header.styles'; 
 
 const Header = () => {
-    const { cartItems, totalPrice } = useCart();
+    // const { cartItems, totalPrice } = useCart();
   
     return (
       <HeaderContainer>
@@ -22,8 +22,8 @@ const Header = () => {
           <IconSection>
             <StyledCartIcon />
           </IconSection>
-          <CartQuantity>Carrinho: {cartItems.length} Item(s)</CartQuantity> 
-          <CartTotal> - R$ {totalPrice.toFixed(2)}</CartTotal>
+          <CartQuantity>Carrinho: {2} Item(s)</CartQuantity> 
+          <CartTotal> - R$ </CartTotal>
         </CartSection>
       </HeaderContainer>
     );
